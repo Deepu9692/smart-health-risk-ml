@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepu9692-health-ml.streamlit.app)
 # 🩺 Smart Health Risk Predictor using ML
 
 This project uses machine learning and a full stack web app (Flask + Streamlit) to predict the likelihood of a person being at health risk based on basic medical parameters.
@@ -9,6 +10,9 @@ This project uses machine learning and a full stack web app (Flask + Streamlit) 
 
 ## 🚀 Run Locally
 ```bash
+git add README.md
+git commit -m "✅ Added live Streamlit demo badge"
+git push
 # Backend
 cd backend
 python predict_api.py
@@ -26,3 +30,7 @@ streamlit run streamlit_app.py
 
 ## ✅ Output
 "Prediction: ⚠️ At Risk"
+git add README.md
+git commit -m "✅ Added live Streamlit demo badge"
+git push
+
